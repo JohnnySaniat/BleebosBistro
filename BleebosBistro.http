@@ -1,0 +1,6 @@
+@BleebosBistro_HostAddress = http://localhost:5122
+
+GET {{BleebosBistro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
